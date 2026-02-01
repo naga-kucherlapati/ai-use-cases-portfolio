@@ -2,47 +2,47 @@
 
 This repository is a curated collection of AI use cases designed for real-world application across industries, functions, and career stages.
 
-The goal is not to showcase flashy demos, but to document how AI can be thoughtfully designed, evaluated, and adopted across business workflows — from enterprise teams to students, early-career learners, and small business owners.
+The intent here is not to showcase flashy demos. It is to document how AI can be thoughtfully designed, evaluated, and adopted in everyday workflows. This includes enterprise teams, students, early-career professionals, and small business owners.
 
-Each use case is structured to reflect practical decision-making: problem framing, data readiness, trust considerations, and adoption in context.
+Each use case reflects how decisions are made in practice. That means starting with the problem, understanding context, assessing data readiness, and thinking through trust, risk, and adoption from day one.
 
 ---
 
 ## How this portfolio is organized
 
-Each use case includes:
+Each use case walks through:
 - The problem being solved and why it matters
-- Who it helps (teams, individuals, learners, or customers)
+- Who it helps, whether teams, individuals, learners, or customers
 - Where it fits in a real workflow
 - Data required and quality considerations
-- Approach options (rules, retrieval, ML, agents, or hybrids)
-- Risks, trust signals, and guardrails
-- Adoption considerations (change, enablement, usage)
-- Success metrics beyond just accuracy
+- Possible approaches, including rules, retrieval, ML, agents, or hybrids
+- Risks, guardrails, and trust signals
+- Adoption considerations such as enablement, change, and usage
+- Success metrics beyond model accuracy
 
-The emphasis is on **clarity, responsibility, and usability**, not complexity.
+The emphasis is on clarity, responsibility, and usability.
 
 ---
 
 ## Use case categories
 
-This portfolio intentionally spans multiple domains, including:
+This portfolio intentionally spans multiple domains.
 
-### Business Functions
+### Business functions
 - Marketing and customer insights
 - Finance and planning
 - Supply chain and operations
 - Talent, learning, and workforce enablement
 
-### Individuals and Learners
+### Individuals and learners
 - Students exploring AI concepts
 - Early-career professionals building digital confidence
 - Career switchers and non-technical learners
 
-### Builders and Operators
+### Builders and operators
 - Small business owners
 - Product managers and operators
-- Teams experimenting with AI safely and pragmatically
+- Teams experimenting with AI in a safe and practical way
 
 ---
 
@@ -50,16 +50,16 @@ This portfolio intentionally spans multiple domains, including:
 
 - Marketing: Customer segmentation with explainable signals
 - Finance: Expense categorization with human review
-- Supply Chain: Demand signals with scenario simulation
-- Learning: Personalized study plans with guardrails
-- Small Business: AI-assisted content and operations support
-- Knowledge Work: Retrieval-based Q&A with trust indicators
+- Supply chain: Demand signals supported by scenario exploration
+- Learning: Personalized study plans with clear guardrails
+- Small business: AI-assisted content and operations support
+- Knowledge work: Retrieval-based Q&A with visible trust indicators
 
 ---
 
 ## Notes
 
 This is a living portfolio.
-Use cases will evolve over time with templates, diagrams, lightweight experiments, and reflections on what worked, what didn’t, and why.
+Use cases will evolve over time through templates, diagrams, lightweight experiments, and reflections on what worked, what did not, and why.
 
-The intent is to make AI feel **approachable, grounded, and useful** — regardless of role or background.
+The goal is to make AI feel approachable, grounded, and genuinely useful, regardless of role or background.
