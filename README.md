@@ -1,35 +1,43 @@
-# Use Cases
+# AI Use Cases Portfolio
 
-This section brings AI use cases to life across work, learning, and everyday problem solving.
+This repository brings together practical AI use cases across work, learning, and everyday problem solving.
 
-These are not hypothetical ideas. Each use case is written to reflect how AI is actually explored, evaluated, and adopted across teams, functions, and individual contexts.
+The focus here is not flashy demos or theoretical ideas. It is about showing how AI can be designed, evaluated, and adopted in ways that actually make sense for people.
 
-The goal is simple. Make AI feel useful, understandable, and grounded in reality.
+You will see examples that span business teams, students, early-career learners, and small organizations. Different contexts, same core question. How do we use AI responsibly and well?
 
-## What each use case covers
+---
 
-Every use case walks through:
-- The problem and why it is worth solving
-- Who it helps and who it impacts
-- Where it fits in a real workflow
-- The data it depends on
-- Different ways the solution could be approached
-- Trust, risk, and human judgment points
-- What adoption actually looks like
-- How success should be measured
+## How to explore this repo
 
-## Index
+If you are short on time, start here.
 
-### Business and enterprise
-1. Marketing: Customer segmentation with explainable signals
-2. Finance: Expense categorization with human review
-3. Supply chain: Demand signals with scenario exploration
-4. HR and people ops: Employee support and policy guidance with guardrails
+### Featured use cases
+- Marketing: Customer segmentation with explainable signals  
+  `/use-cases/01_marketing_customer-segmentation.md`
 
-### Individuals and learning
-5. Students: AI study buddy that supports learning, not shortcuts
-6. Early career: Resume feedback and interview prep with transparency
+- Students: AI study buddy that supports learning, not shortcuts  
+  `/use-cases/02_students_ai-study-buddy.md`
 
-### Builders and small teams
-7. Small business: AI assistant for customer support and operations
-8. Solo creators: Content planning with clear boundaries and review
+Each use case walks through the problem, the data, the approach options, the trust considerations, and what adoption really looks like.
+
+---
+
+## What this portfolio is about
+
+Across all use cases, you will see a consistent lens:
+- Clear problem framing
+- Practical workflows
+- Multiple solution paths, not one “right” answer
+- Guardrails, trust, and human judgment
+- Adoption that considers real behavior, not ideal behavior
+
+The goal is to make AI feel usable, grounded, and worth trusting.
+
+---
+
+## What’s next
+
+This portfolio will continue to grow with additional use cases across finance, HR, supply chain, early career, and small teams.
+
+Templates and structure live in the `/templates` folder for reuse and iteration.
