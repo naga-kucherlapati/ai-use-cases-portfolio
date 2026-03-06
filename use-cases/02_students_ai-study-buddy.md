@@ -44,3 +44,79 @@ Option C: Hybrid where AI supports practice and reflection, not final answers
 - More practice without increased grading load
 - Reduced temptation to misuse AI
 - Students choosing to use the tool as support, not replacement
+
+- ---
+
+## Example Scenario
+
+A university introduces an AI study assistant to help students review course material outside of class.
+
+Students can ask questions about lecture topics, request explanations of difficult concepts, and generate practice questions.
+
+Instead of relying on a general AI model alone, the system retrieves information from course materials such as lecture notes, reading assignments, and approved reference documents.
+
+This ensures that answers remain aligned with the course curriculum.
+
+---
+
+## Possible Tools and Technologies
+
+Several approaches could support a system like this.
+
+Document ingestion and storage  
+Cloud storage, document processing pipelines
+
+Retrieval systems  
+Vector databases such as Pinecone, Weaviate, or open-source alternatives
+
+AI models  
+Large language models with retrieval-augmented generation (RAG)
+
+Application layer  
+Web or mobile interfaces where students interact with the assistant
+
+Analytics  
+Systems to track usage patterns and learning outcomes
+
+---
+
+## Example Implementation Flow
+
+1. Course materials such as lecture notes and readings are collected and processed.
+
+2. Documents are split into smaller chunks and stored in a vector database.
+
+3. When a student asks a question, the system retrieves relevant sections of course content.
+
+4. The language model generates an answer using the retrieved context.
+
+5. The system presents the answer along with references to the original material.
+
+6. Students can ask follow-up questions to deepen understanding.
+
+---
+
+## Guardrails and Learning Integrity
+
+To protect learning outcomes, the system may include safeguards such as:
+
+- avoiding direct answers to graded assignments  
+- encouraging explanation and reasoning rather than shortcuts  
+- citing the course material used for responses  
+- flagging uncertain answers
+
+These guardrails help ensure that the assistant supports learning rather than replacing it.
+
+---
+
+## Evaluation Signals
+
+Institutions can evaluate the system using signals such as:
+
+- student usage frequency  
+- improvement in concept comprehension  
+- reduction in repetitive support requests to instructors  
+- student satisfaction with explanations  
+- alignment between responses and course material
+
+These indicators help determine whether the assistant is genuinely supporting student learning.
