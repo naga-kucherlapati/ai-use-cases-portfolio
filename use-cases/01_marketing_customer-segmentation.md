@@ -44,3 +44,67 @@ Option C: Hybrid where AI suggests and humans decide
 - Faster setup with less manual work
 - Fewer targeting mistakes
 - Teams choosing to reuse the approach
+---
+
+## Example Scenario
+
+A marketing team wants to segment customers based on behavior rather than static demographic groups.
+
+Instead of relying only on predefined segments, the system analyzes signals such as:
+
+- purchase frequency  
+- product category interest  
+- browsing behavior  
+- engagement with marketing campaigns  
+
+The goal is to identify patterns that reveal meaningful customer groups and support more relevant messaging.
+
+---
+
+## Possible Tools and Technologies
+
+Several approaches could support this type of system.
+
+Data platforms  
+Snowflake, BigQuery, Databricks
+
+Customer data platforms  
+Segment, mParticle, Salesforce CDP
+
+Machine learning or AI tools  
+Python notebooks, clustering models, embedding-based similarity search, LLM-assisted labeling of segments
+
+Visualization and reporting  
+Tableau, Power BI, or internal analytics dashboards
+
+The specific stack matters less than the quality and structure of the data feeding the system.
+
+---
+
+## Example Implementation Flow
+
+1. Customer behavior data is aggregated from transactional systems, web analytics, and marketing tools.
+
+2. Feature signals are created from this data. Examples include recency of purchases, category preferences, and engagement scores.
+
+3. Clustering or similarity methods identify groups of customers with similar behavior patterns.
+
+4. AI tools help label or describe these clusters in human-friendly language.
+
+5. Marketing teams review and refine the segments before activation.
+
+6. Segments are used for campaign targeting and personalization experiments.
+
+---
+
+## Evaluation Signals
+
+To determine whether the system is useful, teams can track:
+
+- campaign response rate by segment  
+- conversion improvements  
+- reduction in manual segmentation work  
+- clarity and interpretability of segments  
+- stability of segments over time
+
+These signals help teams decide whether the segmentation approach is actually improving marketing outcomes.
